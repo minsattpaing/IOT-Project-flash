@@ -1,9 +1,7 @@
 #include <WiFi.h>
 #include <WebServer.h>
+#include "config.h"
 
-// Replace with your Wi-Fi credentials
-const char* ssid = "Kix";
-const char* password = "137900$@Min";
 
 WebServer server(80); // Start web server on port 80
 

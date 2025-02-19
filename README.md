@@ -4,4 +4,5 @@ This project involves controlling lights using an ESP32 and a web server interfa
 
 
 
-![Uploading 1000_F_835130926_wV1dMt6121riehbt02pbw94afvHI5bFu.jpg…]()
+
+![bulb](https://github.com/user-attachments/assets/2c2eb792-0e93-4ad9-881f-2968f3489f72)
